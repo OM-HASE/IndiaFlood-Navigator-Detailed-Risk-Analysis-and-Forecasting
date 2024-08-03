@@ -55,7 +55,7 @@ The project includes visualizations of flood risk predictions and model performa
 - **Model Performance Graphs:** Graphs displaying accuracy, error metrics, and feature importance.
   ![Relation Map](Output Images/Relation Map.png)
   ![Pipeline Leaderboard](Output Images/Pipeline leaderboard.png)
-  ![Metric Chart](Output Images/Metric Chart.png)
+  ![Metric Chart](Output Images/Metric_Chart.png)
 
 ## Usage
 
