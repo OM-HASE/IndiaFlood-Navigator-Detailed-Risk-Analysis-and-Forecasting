@@ -29,7 +29,7 @@ The dataset includes:
 - Historical Floods
 - Flood Occurred
   
-The dataset has been uploaded to the repository and can be found in the `flood_risk_dataset_india.csv/`.
+The dataset has been uploaded to the repository and can be found in the [flood_risk_dataset_india](flood_risk_dataset_india.csv).
 
 ## Installation
 
