@@ -51,10 +51,15 @@ The dataset has been uploaded to the repository and can be found in the [flood_r
 
 The project includes visualizations of flood risk predictions and model performance. Sample output images are provided in the `Output Images/` directory:
 - **Flood Prediction:** It showing predicted flood across different regions.
-  ![Flood Precdiction Output Image](Output_Images/Output Image of Model.jpg)
+
+
+  ![Flood Precdiction Output Image](Output_Images/Output_Image_of_Model.jpg)
+  
 - **Model Performance Graphs:** Graphs displaying accuracy, error metrics, and feature importance.
-  ![Relation Map](Output_Images/Relation Map.png)
-  ![Pipeline Leaderboard](Output_Images/Pipeline leaderboard.jpg)
+
+  
+  ![Relation Map](Output_Images/Relation_Map.jpg)
+  ![Pipeline Leaderboard](Output_Images/Pipeline_leaderboard.jpg)
   ![Metric Chart](Output_Images/Metric_Chart.jpg)
 
 ## Usage
