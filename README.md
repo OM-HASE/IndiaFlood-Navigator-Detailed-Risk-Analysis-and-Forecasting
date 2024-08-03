@@ -47,6 +47,15 @@ The dataset has been uploaded to the repository and can be found in the [flood_r
     ```bash
     pip install -r requirements.txt
     ```
+# Output Images
+
+The project includes visualizations of flood risk predictions and model performance. Sample output images are provided in the `Output Images/` directory:
+- **Flood Prediction:** It showing predicted flood across different regions.
+  ![Flood Precdiction Output Image](Output Images/Output Image of Model.png)
+- **Model Performance Graphs:** Graphs displaying accuracy, error metrics, and feature importance.
+  ![Relation Map](Output Images/Relation Map.png)
+  ![Pipeline Leaderboard](Output Images/Pipeline leaderboard.png)
+  ![Metric Chart](Output Images/Metric Chart.png)
 
 ## Usage
 
